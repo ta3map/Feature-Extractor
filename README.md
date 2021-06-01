@@ -8,11 +8,11 @@ Select the object that interests you. Here, for example, is the face of a monkey
 Next, you can select the category.
 But if the image name already has a category name in it, you don't need to select anything.
 
-Select the features. Here, we denote that it is a monkey. 
+Select the features. Here we indicate that the object belongs to a monkey.
 
 - [x] monkey ~~(other animal)~~
 
-Secondly, we note that it is a face of a monkey. 
+Secondly, we mark the object as a face. 
 
 - [x] face ~~(non-face)~~
 
