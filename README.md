@@ -21,7 +21,7 @@ We don't mark it as a baby, because it's an adult monkey.
 
 ![GitHub Logo](/screenshots/screen2.png)
 
-## Add Object
+## Add object
 To add an object, click `Add Object`. It will appear in the results table. Here in the table, features are saved - this is a monkey *(monkey = 1)*, this is a face *(face = 1)*, this is an adult monkey *(baby = 0)*. Also the area of this selection is calculated *(Area)* and the total area of the entire image *(Image area)*. These last columns are always in the table.
 ![GitHub Logo](/screenshots/screen3.png)
 
@@ -31,7 +31,7 @@ If you added an object by mistake and want to delete it, click `Delete object`. 
 ## Next picture/Previous
 Use `Next picture` and `Previous` buttons to switch between images.
 ![GitHub Logo](/screenshots/screen6.png)
-## Save Results
+## Save results
 After you have marked and described all the objects in the pictures, you can save the results to a csv table by clicking on the `Save Results` button.
 ![GitHub Logo](/screenshots/screen5.png)
 
