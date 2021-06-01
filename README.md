@@ -6,7 +6,7 @@ Manually pinpoint objects and put them  in a table with features. To configure t
 Select the object that interests you. Here, for example, is the face of a monkey. 
 ![GitHub Logo](/screenshots/screen1.png)
 Next, you can select the category.
-If the image name already has a category name in it, you don't need to select a category.
+But if the image name already has a category name in it, you don't need to select anything.
 
 Select the features. Here, we denote that it is a monkey. 
 
