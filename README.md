@@ -3,7 +3,8 @@ Manually pinpoint objects and put them into group. To configure the categories a
 
 [Download link](https://disk.yandex.ru/d/QNL7aZe7rltaDg)
 # Measurements
-Select the object that interests you. Here, for example, is the face of a monkey. If the image name already has a category name, you don't need to select a category.
+Select the object that interests you. Here, for example, is the face of a monkey. 
+Next, if the image name already has a category name, you don't need to select a category.
 ![GitHub Logo](/screenshots/screen1.png)
 Select the features. Here, we denote that it is a monkey. Secondly, we note that it is a face of a monkey. We don't mark it as a baby, because it's an adult monkey.
 ![GitHub Logo](/screenshots/screen2.png)
