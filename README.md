@@ -1,39 +1,39 @@
 # Feature-Extractor
-Pinpoint objects manually
+Manually pinpoint objects and put them into group. To configure the categories and features you want to pinpoint, change the corresponding tables. Look at the sample dataset to bring your data to the analyzable format.
+[Download link](https://disk.yandex.ru/d/QNL7aZe7rltaDg)
 # Measurements
-Мы просто выделяем объект который нас интересует. Вот здесь например это лицо этой обезьяны.
+Select the object that interests you. Here, for example, is the face of a monkey. If the image name already has a category name, you don't need to select a category.
 ![GitHub Logo](/screenshots/screen1.png)
-Мы отмечаем фичи. Во-первых, мы отмечаем что это обезьяна. Во вторых, мы отмечаем что это лицо. Мы не отмечаем что это ребенок, потому что это взрослая обезьяна. 
+Select the features. Here, we denote that it is a monkey. Secondly, we note that it is a face of a monkey. We don't mark it as a baby, because it's an adult monkey.
 ![GitHub Logo](/screenshots/screen2.png)
 
 ## Add Object
-Дальше мы просто добавляем объект, нажимаем "Add Object". Вот он появился в нашей таблице с результатами. Здесь соответственно, с фичами отметилось что это обезьяна (monkey), то что это лицо (face), то что это взрослая обезьяна (adult). Также здесь отмечена площадь которую занимает это выделение (Area) и общая площадь всей картинки (Image area). Эти колонки всегда присутствуют.
+To add an object, click "Add Object". It will appear in the results table. Here in the table, features are saved - this is a monkey, this is a face, this is an adult monkey. Also marked here is the area that this selection occupies (Area) and the total area of the entire image (Image area). These last columns are always present in the table.
 ![GitHub Logo](/screenshots/screen3.png)
 
 ## Delete object
-Скажем, я захотел отметить еще других обезьян и один раз ошибся - и отметил что это 
-"не обезьяна", или отметил не то что надо, или плохо выделил например. Проще говоря, добавил 
-объект по ошибке. Если что, я могу выделить объект который меня не устраивает и удалить его (Delete object). Переключаюсь между объектами (знаки + - ) , вот это удалил.
+If you added an object by mistake and want to delete it, click "Delete object". To switch between objects, use " + - " buttons.
 ![GitHub Logo](/screenshots/screen4.png)
-
+## Next picture/Previous
+Use "Next picture" and "Previous" buttons to switch between images.
+![GitHub Logo](/screenshots/screen6.png)
 ## Save Results
-После того как я переключился, посмотрел все картинки которые мне нужно, отметил все объекты которые мне нужны - я могу сохранить результаты (Save Results). 
+After you have marked and described all the objects in the pictures, you can save the results to a csv table by clicking on the "Save Results" button.
 ![GitHub Logo](/screenshots/screen5.png)
 
-## Next picture/Previous
-![GitHub Logo](/screenshots/screen6.png)
 ## Show table in folder
-И далее я например могу во-первых посмотреть где моя таблица находится (Show table in Folder), если я например забыл.
+To see where the analysis results are located, click "Show table in Folder".
 ![GitHub Logo](/screenshots/screen7.png)
 ## New Table
-Я могу например сделать новую таблицу (New Table) назвать и её как-нибудь. Тогда у нас автоматически все (предыдущие) результаты очищаются, мы начинаем с самого начала.
+To make a new measurement, click "New Table". A new empty table will appear.
 ![GitHub Logo](/screenshots/screen8.png)
 
 # Settings
-Теперь перейдем к другим настройкам. Вот здесь отмечены папки в которых находятся все наши картинки. Например в данном случае мы используем картинки из готового примера.
-Все возможные фичи, которые здесь - то что это обезьяна, то что это лицо, то что это взрослый или ребенок отмеченных таблице фич (features). Все возможные категории, которые в название картинки указаны, и автоматически здесь выбираются, перечисленных таблицы категории (categories).
+In the "Settings" tab, paths to the initial data are marked. The first line is the path to the folder with all images you are interested in. For example, in this case, we use pictures from the example.
 ![GitHub Logo](/screenshots/screen9.png)
 ## Category table 
+All possible categories are listed in the categories table (categories.csv).
 ![GitHub Logo](/screenshots/screen10.png)
 ## Feature table
+All features that could be selected (monkey, face, adult or child) are listed in the first row of the features table (features. csv).
 ![GitHub Logo](/screenshots/screen11.png)
