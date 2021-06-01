@@ -4,13 +4,25 @@ Manually pinpoint objects and put them into group. To configure the categories a
 [Download link](https://disk.yandex.ru/d/QNL7aZe7rltaDg)
 # Measurements
 Select the object that interests you. Here, for example, is the face of a monkey. 
-Next, if the image name already has a category name, you don't need to select a category.
 ![GitHub Logo](/screenshots/screen1.png)
-Select the features. Here, we denote that it is a monkey. Secondly, we note that it is a face of a monkey. We don't mark it as a baby, because it's an adult monkey.
+Next, if the image name already has a category name in it, you don't need to select a category.
+
+Select the features. Here, we denote that it is a monkey. 
+
+- [x] monkey ~~(other animal)~~
+
+Secondly, we note that it is a face of a monkey. 
+
+- [x] face ~~(non-face)~~
+
+We don't mark it as a baby, because it's an adult monkey.
+
+- [ ] ~~baby~~ (adult)
+
 ![GitHub Logo](/screenshots/screen2.png)
 
 ## Add Object
-To add an object, click "Add Object". It will appear in the results table. Here in the table, features are saved - this is a monkey, this is a face, this is an adult monkey. Also marked here is the area that this selection occupies (Area) and the total area of the entire image (Image area). These last columns are always present in the table.
+To add an object, click "Add Object". It will appear in the results table. Here in the table, features are saved - this is a monkey (monkey = 1), this is a face (face = 1), this is an adult monkey (baby = 0). Also the area of this selection is calculated (Area) and the total area of the entire image (Image area). These last columns are always in the table.
 ![GitHub Logo](/screenshots/screen3.png)
 
 ## Delete object
