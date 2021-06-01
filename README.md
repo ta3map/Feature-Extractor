@@ -1,5 +1,6 @@
 # Feature-Extractor
-Manually pinpoint objects and put them into group. To configure the categories and features you want to pinpoint, change the corresponding tables. Look at the sample dataset to bring your data to the analyzable format.
+Manually pinpoint objects and put them into group. To configure the categories and features you want to pinpoint, change the [corresponding tables](#settings). Look at the sample dataset to bring your data to the analyzable format.
+
 [Download link](https://disk.yandex.ru/d/QNL7aZe7rltaDg)
 # Measurements
 Select the object that interests you. Here, for example, is the face of a monkey. If the image name already has a category name, you don't need to select a category.
