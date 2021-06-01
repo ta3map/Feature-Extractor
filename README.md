@@ -1,5 +1,5 @@
 # Feature-Extractor
-Manually pinpoint objects and put them into the table with features. To configure the categories and features you want to pinpoint, change the [corresponding tables](#category-table). Look at the [sample dataset](/Example/) to bring your data to the analyzable format.
+Manually pinpoint objects and put them  in a table with features. To configure the categories and features you want to pinpoint, change the [corresponding tables](#category-table). Look at the [sample dataset](/Example/) to bring your data to the analyzable format.
 
 [Download link](https://disk.yandex.ru/d/QNL7aZe7rltaDg)
 # Measurements
