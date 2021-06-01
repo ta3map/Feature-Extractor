@@ -22,28 +22,28 @@ We don't mark it as a baby, because it's an adult monkey.
 ![GitHub Logo](/screenshots/screen2.png)
 
 ## Add Object
-To add an object, click "Add Object". It will appear in the results table. Here in the table, features are saved - this is a monkey (monkey = 1), this is a face (face = 1), this is an adult monkey (baby = 0). Also the area of this selection is calculated (Area) and the total area of the entire image (Image area). These last columns are always in the table.
+To add an object, click `Add Object`. It will appear in the results table. Here in the table, features are saved - this is a monkey *(monkey = 1)*, this is a face *(face = 1)*, this is an adult monkey *(baby = 0)*. Also the area of this selection is calculated *(Area)* and the total area of the entire image *(Image area)*. These last columns are always in the table.
 ![GitHub Logo](/screenshots/screen3.png)
 
 ## Delete object
-If you added an object by mistake and want to delete it, click "Delete object". To switch between objects, use " + - " buttons.
+If you added an object by mistake and want to delete it, click `Delete object`. To switch between objects, use ` + - ` buttons.
 ![GitHub Logo](/screenshots/screen4.png)
 ## Next picture/Previous
-Use "Next picture" and "Previous" buttons to switch between images.
+Use `Next picture` and `Previous` buttons to switch between images.
 ![GitHub Logo](/screenshots/screen6.png)
 ## Save Results
-After you have marked and described all the objects in the pictures, you can save the results to a csv table by clicking on the "Save Results" button.
+After you have marked and described all the objects in the pictures, you can save the results to a csv table by clicking on the `Save Results` button.
 ![GitHub Logo](/screenshots/screen5.png)
 
 ## Show table in folder
-To see where the analysis results are located, click "Show table in Folder".
+To see where the analysis results are located, click `Show table in Folder`.
 ![GitHub Logo](/screenshots/screen7.png)
 ## New Table
-To make a new measurement, click "New Table". A new empty table will appear.
+To make a new measurement, click `New Table`. A new empty table will appear.
 ![GitHub Logo](/screenshots/screen8.png)
 
 # Settings
-In the "Settings" tab, paths to the initial data are marked. The first line is the path to the folder with all images you are interested in. For example, in this case, we use pictures from the example.
+In the `Settings` tab, paths to the initial data are marked. The first line is the path to the folder with all images you are interested in. For example, in this case, we use pictures from the example.
 ![GitHub Logo](/screenshots/screen9.png)
 ## Category table 
 All possible categories are listed in the categories table (categories.csv).
