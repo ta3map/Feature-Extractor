@@ -38,7 +38,7 @@ After you have marked and described all the objects in the pictures, you can sav
 ## Show table in folder
 To see where the analysis results are located, click `Show table in Folder`.
 ![GitHub Logo](/screenshots/screen7.png)
-## New Table
+## New table
 To make a new measurement, click `New Table`. A new empty table will appear.
 ![GitHub Logo](/screenshots/screen8.png)
 
