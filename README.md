@@ -5,7 +5,8 @@ Manually pinpoint objects and put them  in a table with features. To configure t
 # Measurements
 Select the object that interests you. Here, for example, is the face of a monkey. 
 ![GitHub Logo](/screenshots/screen1.png)
-Next, if the image name already has a category name in it, you don't need to select a category.
+Next, you can select the category.
+If the image name already has a category name in it, you don't need to select a category.
 
 Select the features. Here, we denote that it is a monkey. 
 
