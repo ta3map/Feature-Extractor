@@ -46,8 +46,8 @@ To make a new measurement, click `New Table`. A new empty table will appear.
 In the `Settings` tab, paths to the initial data are marked. The first line is the path to the folder with all images you are interested in. For example, in this case, we use pictures from the example.
 ![GitHub Logo](/screenshots/screen9.png)
 ## Category table 
-All possible categories are listed in the categories table (categories.csv).
+All possible categories are listed in the category table *(categories.csv)*.
 ![GitHub Logo](/screenshots/screen10.png)
 ## Feature table
-All features that could be selected (monkey, face, adult or child) are listed in the first row of the features table (features. csv).
+All features that could be selected *(monkey, face, adult or child)* are listed in the first row of the feature table *(features.csv)*.
 ![GitHub Logo](/screenshots/screen11.png)
